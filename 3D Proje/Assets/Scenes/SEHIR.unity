@@ -845,6 +845,7 @@ MonoBehaviour:
   - {fileID: 1523413572}
   - {fileID: 259537156}
   - {fileID: 1606321779}
+  waitTimeAtLastSeen: 0
 --- !u!1001 &286422084
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4308,7 +4309,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1fe066d657cf8754b8ae04505c9bcf99, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 11.37
+      value: 9.41
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1fe066d657cf8754b8ae04505c9bcf99, type: 3}
       propertyPath: m_LocalRotation.w
